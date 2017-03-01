@@ -31,6 +31,6 @@ For the project we will use existing data that has been collected, or is planned
 
 No known IP restrictions?
 
-MOU with Elshire Group.
+MOU with Elshire Group. -- Do we want to have some standard thing with NZOSS as the holder of the BBS project ip??
 
 ### Risks
