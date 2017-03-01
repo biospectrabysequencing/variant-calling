@@ -1,5 +1,3 @@
-## Abstract
+metadata.md
 abstract.md
-
-## Team
 team.md
