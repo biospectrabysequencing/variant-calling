@@ -29,7 +29,7 @@ For the project we will use existing data that has been collected, or is planned
 
 ### IP and MOU
 
-No known IP restrictions?
+No known IP restrictions? The bulk of the tools that we will be using / testing are released under Free / Open Source software licenses. Best practice dictates that software integrating those components be licensed under a compatible license. This also follows the NZGOAL-SE framework and is regarded as best practice by the NZ central govt.
 
 MOU with Elshire Group. -- Do we want to have some standard thing with NZOSS as the holder of the BBS project ip??
 
