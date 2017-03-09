@@ -8,6 +8,7 @@ vision-implementation.md
 relationships.md
 Relationships_with_existing_or_proposed__.md
 Information_for_the_Investment_Committee__.md
+New_Resources_optional_Maximum_page__.md
 
 ## resources
 funding.md
