@@ -1,4 +1,8 @@
 ## Key deliverables
+**(Maximum 1.5 pages)**
+1. How will this project position PFR for future funding opportunities?
+2. What will success of this 1-2 year project look like in science terms  e.g. Capability / platform development, know-how, IP, papers, and/or technology produced by the end of the funding term, collaborations developed or strengthened. Bullet point format preferred.  
+3. Note the timeline and key milestones (e.g. decision points, outputs or key steps) for achieving the stated outcome and deliverables for this 1-2 year project.
 
 Capability in rigorously calling variants in species of interest.
 
