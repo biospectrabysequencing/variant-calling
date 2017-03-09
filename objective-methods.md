@@ -1,5 +1,5 @@
 ## Objective and methods
-(Maximum 4 pages, including up to 5 references)  
+**(Maximum 4 pages, including up to 5 references) ** 
 1. _What is the expected outcome of this project? e.g. Hypothesis to be tested and/or Key question or Objective, and/or Capability or Platform that will be developed_
 2. _Current situation – What do we already know? What are we already doing? Who else is working in this space within NZ or internationally?  If relevant, who are we currently working with in this area?_
 3. _What is the novelty and/or stretch?_
