@@ -4,6 +4,7 @@
 2. _Who are the likely end-users and how could they benefit? Quantify benefits if possible._
 3. _What are the key steps in the implementation pathway when this project is completed?  Note any critical factors in achieving uptake and expected impact, including funding, accessing new or different capabilities, and management of IP and FTO. Indicate the likely timeline for the key steps leading to the benefits or impacts.  You may provide more detail on the next steps than later ones_
 
-Produce an open source trusted reproducible research framework for calling variants from GBS and resequencing data sets.
-
-The framework must have utility and be usable by many with a clear path for continuous improvement.
+- Produce an open source trusted reproducible research framework for calling variants from GBS and resequencing data sets.
+- Automation of variant calling pipelines with trusted results
+- Plug and pray useability for end users
+- A usable framework with a clear path for continuous improvement.
