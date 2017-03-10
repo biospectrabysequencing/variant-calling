@@ -15,7 +15,11 @@ Papers
 
 | Milestone                              | Metric of success | Completion Date |
 |----------------------------------------|-------------------|-----------------|
-|                                        |                   |                 |
-|                                        |                   |                 |
-|                                        |                   |                 |
-|                                        |                   |                 |
+| Example data aquired                   |                   |                 |
+| Test data simulated                    |                   |                 |
+| Cloud platform established             |                   |                 |
+| Baseline developed                     |                   |                 |
+| Rack framework developed               |                   |                 | 
+| 5 existing pipelines plugged in        |                   |                 |
+| 5 pipelines tested against baseline    |                   |                 |
+
