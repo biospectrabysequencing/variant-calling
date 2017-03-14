@@ -15,11 +15,12 @@ Papers
 
 | Milestone                              | Metric of success | Completion Date |
 |----------------------------------------|-------------------|-----------------|
-| Example data aquired                   |                   |                 |
-| Test data simulated                    |                   |                 |
-| Cloud platform established             |                   |                 |
+| Example data acquired                  | availability of required example data |                 |
+| Test data simulated                    | workflow for generating test data |                 |
+| Cloud platform established             | access to catalyst cloud for all |                 |
 | Baseline developed                     |                   |                 |
 | Rack framework developed               |                   |                 | 
 | 5 existing pipelines plugged in        |                   |                 |
 | 5 pipelines tested against baseline    |                   |                 |
+| information resource available         |                   |                 |
 
