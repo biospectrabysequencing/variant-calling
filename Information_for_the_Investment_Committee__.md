@@ -1,5 +1,5 @@
-#Information for the Investment Committee 
-##Alignment with PFR strategy 
+#Information for the Investment Committee
+##Alignment with PFR strategy
 **(Maximum 1 page)**
 1. _How is this work aligned with the PFR Statement of Core Purpose and strategic outcomes?_
 2. _Note which strategic outcome(s) this work is expected to contribute to, and state how it is expected to contribute to them:_
