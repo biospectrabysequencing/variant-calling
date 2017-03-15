@@ -6,6 +6,6 @@
 
 - Produce an open source trusted reproducible research framework for calling variants from GBS and resequencing data sets.
 - Automation of variant calling pipelines with trusted results
-- Plug and pray useability for end users
+- Plug and play usability for end users
 - A usable framework with a clear path for continuous improvement.
 - Establishing the scientific value of developing an interpretive context.
