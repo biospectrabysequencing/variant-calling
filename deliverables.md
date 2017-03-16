@@ -11,6 +11,10 @@ to correctly call variants (ROC).
 
 Papers
 
+A new way to deliver.
+
+
+
 ### Milestones
 
 | Milestone                              | Metric of success | Completion Date |
@@ -19,8 +23,10 @@ Papers
 | Test data simulated                    | workflow for generating test data |                 |
 | Cloud platform established             | access to catalyst cloud for all |                 |
 | Baseline developed                     |                   |                 |
-| Rack framework developed               |                   |                 | 
+| Rack framework developed               |                   |                 |
 | 5 existing pipelines plugged in        |                   |                 |
 | 5 pipelines tested against baseline    |                   |                 |
-| information resource available         |                   |                 |
-
+| Matrix of datasets and tools           | Availability of online resource with decision support |  |
+|                                       |                   |                 |
+|                                        |                   |                 |
+|                                        |                   |                 |
