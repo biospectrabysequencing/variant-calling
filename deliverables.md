@@ -21,12 +21,9 @@ A new way to deliver.
 |----------------------------------------|-------------------|-----------------|
 | Example data acquired                  | availability of required example data |                 |
 | Test data simulated                    | workflow for generating test data |                 |
-| Cloud platform established             | access to catalyst cloud for all |                 |
+| Cloud platform established             | Availability of a cloud solution for data analysis |                 |
 | Baseline developed                     |                   |                 |
 | Rack framework developed               |                   |                 |
 | 5 existing pipelines plugged in        |                   |                 |
 | 5 pipelines tested against baseline    |                   |                 |
 | Matrix of datasets and tools           | Availability of online resource with decision support |  |
-|                                       |                   |                 |
-|                                        |                   |                 |
-|                                        |                   |                 |
