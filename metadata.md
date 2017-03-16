@@ -1,5 +1,5 @@
 | Project Title | A statistically rigorous evaluation framework for variant calling |
-| Proposal ID   | |
+| Proposal ID   | DS17-49 |
 | Funding requested (cost p.a. excl GST)| |
 | Project Leader| Roy Storey|
 | Phone |  07 928 9828 |
