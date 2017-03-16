@@ -1,5 +1,5 @@
 ---
-Project Title: Developing a platform to enhance statistical rigour and automation for variant calling pipelines
+Project Title: A statistically rigorous evaluation framework for variant calling
 Proposal ID:
 Funding requested (cost p.a. excl GST):
 Project Leader: Roy Storey
