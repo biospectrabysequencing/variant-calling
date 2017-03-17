@@ -1,6 +1,6 @@
 ### Point 4 -- Outline of methods (at least 1 page)
 
-Throughout the section of methods we will work according to reproducible research best practices (TODO citation) in computational biology.
+Throughout the section of methods we will work according to reproducible research \cite{ReproducibleResearch_2017-03-16} best practices \cite{Best_Practice_Documents_2017-03-17} in computational biology that have been developed from the _Better Analysis Faster_ programme.
 
 **in silico experiments**
 
