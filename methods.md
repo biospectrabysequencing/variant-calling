@@ -31,4 +31,5 @@ Development of Cloud capability.
 * GBS and resequencing
 * polyploid
 * making sense of reports - what methods here?
+* visualisations
 * confident curation.
