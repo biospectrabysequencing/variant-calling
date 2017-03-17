@@ -1,6 +1,6 @@
 ### Point 4 -- Outline of methods (at least 1 page)
 
-Throughout the section of methods we will work according to reproducbile research best practices (TODO citation) in computational biology.
+Throughout the section of methods we will work according to reproducible research best practices (TODO citation) in computational biology.
 
 **in silico experiments**
 
