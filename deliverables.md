@@ -4,14 +4,14 @@
 2. _What will success of this 1-2 year project look like in science terms  e.g. Capability / platform development, know-how, IP, papers, and/or technology produced by the end of the funding term, collaborations developed or strengthened. Bullet point format preferred._
 3. _Note the timeline and key milestones (e.g. decision points, outputs or key steps) for achieving the stated outcome and deliverables for this 1-2 year project._
 
-Capability in rigorously calling variants in species of interest.
+Capability in rigorously calling variants and assessing their value in species of interest.
 
 Knowledge of biological and technical effects on each of the pipelines' ability
 to correctly call variants (ROC).
 
-Papers
+Reseach paper establishing an interpretive context for variant calling
 
-A new way to deliver.
+A new way to deliver high value markers and other breeding technology.
 
 
 
