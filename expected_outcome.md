@@ -8,12 +8,9 @@ I had a go at rewording the last sentence to address this. David_
 
 We have three use cases to ensure we have the volume and variety of data to trail and stress the framework and ensure practical utility.
 
-Case#1: variant call optimisation for genomic selection in apple and snapper. PFR is using reduced representation genotyping by sequencing (GBS) for genomic selection in apple and snapper. Large datasets have been generated using GBS, as well as whole genome re-sequencing of the parents and founders of the breeding populations. (I also have some populations with both 8k SNP array and GBS)
+*Case#1: variant call optimisation for genomic selection in apple and snapper.* PFR is using reduced representation genotyping by sequencing (GBS) for genomic selection in apple and snapper. Large datasets have been generated using GBS, as well as whole genome re-sequencing of the parents and founders of the breeding populations. (I also have some populations with both 8k SNP array and GBS)
 
-Case#2: pooled whole genome sequencing in manuka. As part of a joint MBIE programme with LandCare Research, we are using whole genome re-sequencing of manuka accessions collected across the country. DNA from 30 accessions at 40 sites will be pooled and sequenced to estimate allelic frequency within and among populations. 
+*Case#2: pooled whole genome sequencing in manuka.* As part of a joint MBIE programme with LandCare Research, we are using whole genome re-sequencing of manuka accessions collected across the country. DNA from 30 accessions at 40 sites will be pooled and sequenced to estimate allelic frequency within and among populations. 
 
-Case#3: skim sequencing. We have whole re-sequencing data for apple and kiwifruit parents from the breeding programme at >30X read depth. We can sue this data set to see what would the variant call accuracy at lower depth, with the vision of replacing GBS by skim sequencing in the future.  
+*Case#3: skim sequencing: how shallow can we go? * We have whole re-sequencing data for apple and kiwifruit parents from the breeding programme at >30X read depth. We can sue this data set to see what would the variant call accuracy at lower depth, with the vision of replacing GBS by skim sequencing in the future.  
 
-**David Chagne ??**
-
-**Samantha Baldwin or Maren Wellenreuther ??**
