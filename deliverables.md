@@ -13,7 +13,7 @@ This project aims at supporting automation initiatives within PFR as well as on 
 - The framework will have been developed and published in the Catalyst cloud
 - We will have published reseach papers establishing an interpretive context for variant calling
 - A new way to deliver high value markers and other breeding technology will have been developed.
-- **Database of SNPs with associated certainty values**
+- Database of SNPs with associated certainty values
 
 Capability in rigorously calling variants and assessing their value in species of interest.
 
