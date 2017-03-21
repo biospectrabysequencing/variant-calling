@@ -10,7 +10,10 @@ The use of simulated data is critical for assessing how each tool performs given
 
 For the project we will use existing data that has been collected, or is planned to be, by the named researchers in the use cases. This data will derive from a variety of sources so that real examples of biological challenges can be assessed in the performance of the tools.
 
-* What PFR data could be used?
+* Apple GBS dataset: >4500 apple accessions from the PFR cultivar breeding programme were geniotyped using GBS. 1200 of them were previsouly genotyped usng the 8k SNP array and grandparents were re-sequenced. 
+* Snapper GBS
+* Whole genome re-sequencing of manuka populations using pool sequencing. We are using the Illumina X Ten platform to generate >200X coverage of populations of 30 individuals. Our goal is to genotype at least 40 populations. 
+* whole genome re-sequencing data for 10 apple (can get access to more than that with international partners) and 40 kiwifruit parents from the breeding programme at >30X read depth (Illumina Hiseq2000 sequencing from 2 years ago)
 * Soybean data sets. Both WGS and GBS generated from the sames extraced DNAs (diploid, inbred) This is from the group at Lavall in Canada
 * Willow data. These are polyploids of varying levels. (I just requested the data from Larry Smart at Cornell)
 * We should look through the literature and contact groups that have published data sets that are interesting from the testing point of view.
