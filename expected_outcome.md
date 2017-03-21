@@ -9,7 +9,9 @@ I had a go at rewording the last sentence to address this. David_
 We have three use cases to ensure we have the volume and variety of data to trail and stress the framework and ensure practical utility.
 
 Case#1: variant call optimisation for genomic selection in apple and snapper. 
+
 Case#2: pooled whole genome sequencing in manuka
+
 Case#3: skim sequencing 
 
 **David Chagne ??**
