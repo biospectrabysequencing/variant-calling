@@ -21,3 +21,4 @@ For the project we will use existing data that has been collected, or is planned
 #### New Data generated
 
 * What would be good for PFR??
+*I think what would good would to evaluate the newest platforms for re-sequencing, eg Illumina Novagene6000 and PacBio Sequel long reads for polyploids. 
