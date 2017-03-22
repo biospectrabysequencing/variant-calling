@@ -4,7 +4,7 @@ The data for this project will consist of both simulated reads/sequences and act
 
 #### Simulated Data
 
-The use of simulated data is critical for assessing how each tool performs given very specific biases and error types. Using simulation, we can control with great precision both the type of bias to introduce as well as the amount of error in the data. Hence, generation of multiple levels of the independent variables as well as positive and negative controls is greatly facilitated. 
+The use of simulated data is critical for assessing how each tool performs given very specific biases and error types. Using simulation, we can control with great precision both the type of bias to introduce as well as the amount of error in the data. Hence, generation of multiple levels of the independent variables as well as positive and negative controls is greatly facilitated. Since there are so many factors that contribute to the variability in alignment algorithms, we envision very many (thousands) of datasets to be constructed to tease out the various levels of the variables that will allow us to confidently benchmark the process. Key factors to be analysed include read type, read platform, read pairing, read length, insert size, read depth, GC bias, base quality, read quality, mapping quality, site depth, repeat content, allele frequency, and quality of the reference.
 
 #### Existing Data
 
