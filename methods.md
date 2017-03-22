@@ -23,14 +23,13 @@ Development of Cloud capability.
 
 #### scoping?
 
-* IBD and Mendelian sanity checks
+* IBD and Mendelian sanity checks: Built into the simulated reads?
 * pooling and population genetics
-* genome free
-* simulations
-* GBS and resequencing
-* polyploid
+* genome free: So what is the reference?
+* GBS and resequencing: Could simulate these pretty easily.
+* polyploid: Control of allele frequencies in simulated data?
 * making sense of reports - what methods here?
-* visualisations
-* confident curation.
+* visualisations: Should address graphs of key metrics
+* confident curation. ???
 
-_These scoping suggestions could be elaborated on in the 
+_These scoping suggestions could be elaborated on in these methods...Charles_
