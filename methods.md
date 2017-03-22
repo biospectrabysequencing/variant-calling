@@ -1,14 +1,14 @@
 ### Point 4 -- Outline of methods (at least 1 page)
 
-During the application of these methods, we will work according to the guidelines of reproducible research \cite{ReproducibleResearch2017} best practices \cite{BestPractices2017} in computational biology that have been developed from the _Better Analysis Faster_ programme.
+During the application of these methods, we will work according to the guidelines of reproducible research \cite{ReproducibleResearch2017} best practices \cite{BestPractices2017} in computational biology that have been developed from the _Better Analysis Faster_ programme. Specifically, we will implement the 4 Pillars that have been shown to be key for developing a "Best Practice".
 
 **In silico experiments**
 
-Multiple genomic read aligners, assemblers, and variant callers will be assessed on their performance using many sets of simulated read data. The data will be obtained by permutation from a “known-good” source, such as one of the human chromosomes. The controls will be sets of “perfect reads” generated as an idealization of the sequencing process, for the specified type, with a specific allele frequency. The idealized reads will then be permuted in a fashion that mimics both the introduction of sequencing errors as well as the introduction of sequencing biases and the incorporation of a range of allele frequencies. Each tool will be run on the sample data sets, and then the results evaluated using the appropriate standard criteria, including the ability to handle polyploid data correctly and efficiently.
+Multiple genomic read aligners, assemblers, and variant callers will be assessed on their performance using many sets of simulated read data. The read data will be constructed by permutation from a “known-good” source, such as one of the human chromosomes. The controls will be sets of “perfect reads” (positive) generated as an idealization of the sequencing process, and sets of random reads (negative). Between the two extremes, many levels of read permutation will be examined allowing for variability in multiple factors including specified type, insert size, base quality (error rates), mapping quality, and allele frequency. The in-silico permutation process mimics the introduction of sequencing errors as well as the introduction of sequencing biases, the incorporation of a range of allele frequencies, and other sources of known problems in alignment algorithms. Due to our ability to construct our datasets with fine precision and then critically analyse the results, we will be able to ascertain the downstream affects of each type of problem. Each tool will be run on the sample data sets, and then the results evaluated using the appropriate standard criteria, including the ability to handle polyploid data correctly and efficiently.
 
 **Biological Experimental Datasets**
 
-Using biological, experimentally collected datasets, the same performance assessments will be completed.
+Using biological, experimentally collected datasets, the same performance assessments will be completed. In these analyses, we will examine "real" data that will contain some but not necessarily all the problems manifested in the simulated data. However, it is critical that we also establish a close coupling between our constructed data and biologically sourced data for purposes of validation.
 
 **Framework development**
 
@@ -32,3 +32,5 @@ Development of Cloud capability.
 * making sense of reports - what methods here?
 * visualisations
 * confident curation.
+
+_These scoping suggestions could be elaborated on in the 
