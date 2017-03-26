@@ -7,3 +7,5 @@ We will have to figure out what we can do with the kiwifruit 40 re-sequenced acc
 Apple re-sequencing is OK to be shared and published. Same for manuka, we have Maori engagement sorted.
 
 ~~MOU with Elshire Group.~~ -- I'm in favour of putting all this under the NZOSS. Neutral ground and same rules for everyone... (Rob)
+
+Whilst some pipelines are in the public domain they may use tools that can only be used under an academic license (eg GBS-SNP-CROP). It may be that testing/validation of these tools is lower priority. 
