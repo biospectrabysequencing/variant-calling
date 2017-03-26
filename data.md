@@ -14,6 +14,7 @@ For the project we will use existing data that has been collected, or is planned
 * Snapper GBS
 * Whole genome re-sequencing of manuka populations using pool sequencing. We are using the Illumina X Ten platform to generate >200X coverage of populations of 30 individuals. Our goal is to genotype at least 40 populations. 
 * whole genome re-sequencing data for 10 apple (can get access to more than that with international partners) and 40 kiwifruit parents from the breeding programme at >30X read depth (Illumina Hiseq2000 sequencing from 2 years ago)
+* Capture-based resequencing of tetraploid potato across and within populations developed as part of the clever culling discovery science project. Both individuals and pools at either 20,000 or 10,000 sites. This includes parents and grandparents. There are/ will be over 300 lines individually and 50 pools of 20 siblings to 150X coverage. Being capture-based the overlap should be more consistent than skim resequence or GBS. We will also have similar data for ttraploid kiwifruit next year. 
 * Soybean data sets. Both WGS and GBS generated from the sames extraced DNAs (diploid, inbred) This is from the group at Lavall in Canada
 * Willow data. These are polyploids of varying levels. (I just requested the data from Larry Smart at Cornell)
 * We should look through the literature and contact groups that have published data sets that are interesting from the testing point of view.
