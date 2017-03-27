@@ -12,10 +12,4 @@ The targeted end-users are primarily the PFR plant and finfish breeding communit
 
 Future work will have to comprise the optimisation of variant calling pipelines. 
 
-During the programme we will: [THIS IS MNOT THE RIGHT SECTION FOR THIS, FOCUS ON BEYOND THE PROJECT HERE]
 
-- Produce an open source trusted reproducible research framework for calling variants from GBS and resequencing data sets.
-- Automation of variant calling pipelines with trusted results
-- Plug and play usability for end users
-- A usable framework with a clear path for continuous improvement.
-- Establishing the scientific value of developing an interpretive context.
