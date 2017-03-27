@@ -14,6 +14,22 @@ Deploying modern, cloud based software tools will allow us to develop, test and 
 #### Pipeline Framework Evaluation
 Developing the evaluation framework with the appropriate framework type will be critical. There are over a dozen possible framework types from which to choose \cite{Leipzig_2016}. The selection of the framework type is substantially dependent on the nature of the variant calling pipelines and the computational environments in which they will be run. Once the pipelines and computational environments have been characterised as described above, One or more of the available frameworks will be selected and a small pilot suitability study will be conducted.
 
+|Pipeline Name|DOI|Year Published|Denovo / Reference|Demultiplexer|Trimmer / Read QC Filter|Aligner|SNP Caller|Special format of fastq filenames|Hardcoded enzyme|Download|Output file types|
+|------|------|------|------|------|------|------|------|------|------|------|------|
+|TASSEL UNEAK|10.1371/journal.pgen.1003215|2013|Denovo|Built In|None|N/A|Built IN|Yes|Yes|http://www.maizegenetics.net/tassel|hmp|
+|STACKS|10.1111/mec.12354|2013|Denovo / Reference|Built In|Built In|BWA / Bowtie2 / GSnap|Built IN|No|Yes|http://catchenlab.life.illinois.edu/stacks/|Database with export.|
+|IGST-GBS|10.1371/journal.pone.0054603|2013|Reference|FastX toolkit (https://github.com/agordon/fastx_toolkit)|FastX toolkit|BWA|sam tools (https://github.com/samtools/samtools)|No|?|Not publicly available|vcf|
+|TASSLE 3|10.1371/journal.pone.0090346|2014|Reference|Built In|None|BWA / Bowtie 2|Built In|Yes|Yes|http://www.maizegenetics.net/tassel|hmp|
+|pyRAD|10.1093/bioinformatics/btu121|2014|Denovo|Built In|Built in but only recommend for very messy single end GBS or ddRAD|Muscle|Built In|NO|No. Can specify enzyme cutsite overhang in parameter file|https://github.com/dereneaton/pyrad/releases|Text (.loci, .phy, .nex, .snps, .vcf and others),|
+|AftrRad|10.1111/1755-0998.12378|2015|Denovo|Built In|Built in but just removes bad reads|Mafft|Built In|No|No needs recognition sequence|https://github.com/mikesovic/AftrRAD|Text (translation scripts)|
+|GBS-SNP-CROP|10.1186/s12859-016-0879-y|2016|Both|Built In|Trimmomatic (trims before demultiplexing!)|BWA|samtools mpileup|yes and for each step name and location expectation|No needs recognition sequence|https://github.com/halelab/GBS-SNP-CROP|SNP matrix, TASSEL hmp, PLINK tped|
+|GibPSs|10.1111/1755-0998.12510|2016|Denovo|Built In|Built in but just removes bad reads|Matching Built in|Built In|No|No needs recognition sequence|https://github.com/ahapke/gibpss|Database with export.|
+|NGSEP|10.1186/s12864-016-2827-7|2016|Reference|Built In|Built in Removes adapter|Bowtie2|Built In|No|unknown|https://sourceforge.net/projects/ngsep/|vcf|
+|FastGBS|10.1186/s12859-016-1431-9|2017|Reference|Sabre (https://github.com/najoshi/sabre)|Removes adaptor with cutadapt (https://github.com/marcelm/cutadapt/)|BWA|Platypus (http\c//www.well.ox.ac.uk/platypus)|Yes|Enzyme cutsite overhang is not checked|https://bitbucket.org/jerlar73/fast-gbs|vcf|
+|ipyRAD|NA|NA|Denovo, Reference, Denovo+Reference|Built In|Built in|BWA / SMALT|Samtools/bedtools|No|No. Can specify enzyme cutsite overhang in parameter file|https://github.com/dereneaton/ipyrad|Varint VCF; ipyrad .loci; phylogenetic and structure (.phy, .nex and .str); SMARTPCA etc (.geno); MAP (.snps.map)|
+|TASSEL 5|NA|NA|Reference|Built In|Built In|BWA / Bowtie2|Built In|Yes|Yes|http://www.maizegenetics.net/tassel|Database with export|
+
+
 #### Data Sets
 
 **In silico experiments**
