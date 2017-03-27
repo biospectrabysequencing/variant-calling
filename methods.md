@@ -33,3 +33,29 @@ Development of Cloud capability.
 * confident curation. ???
 
 _These scoping suggestions could be elaborated on in these methods...Charles_
+
+# Outline of methods/approach (at least one page)
+The approach we will take to the work consists of a number of components which together will comprise the analysis toolkit.
+
+## Pipeline Framework Evaluation
+* Leipzig 2016
+
+## Cloud Integration Tool Evaluation
+* Docker containers
+* Kubernetes cluster container managment
+* Jenkins open source automation server
+
+## Variant Calling Pipeline Identification and Characterisation
+A set of variant calling pipelines suitable for this work need to be identified and characterised in terms of the relationships of their component parts and their dependencies on other software. This work has been started by the Biospectra-by-Sequencing project and is summarized below. (will send table as a word doc. I can't get the bloody thing coded right)
+* Davy et al 2017 (BBS poster from PAG)
+## Data Sets
+
+## Assessment of Variant Calls
+* Laval 2016
+* Cornell Genomics Diversity Facility Reporting Code
+* Biological reality check.
+## Reporting
+### Data
+### Visualisation
+### Baselines / Flags
+
