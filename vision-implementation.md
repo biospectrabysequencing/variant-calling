@@ -10,6 +10,3 @@ The targeted end-users are primarily the PFR plant and finfish breeding communit
 - Rapidly acquired variant information is crucial for implementing genomic selection on fast growing breeding seedlings and hatchlings. Breeders decision often need to be taken in a defined window, e.g. for seedlings before the young trees would be transferred to new pots or orchard. 
 - Accurate variant information is of critical importance for reliable estimation of breeding values during genomic selection. False positive variants for instance can misestimate breeding values calculated from genomic prediction models.
 
-Future work will have to comprise the optimisation of variant calling pipelines. 
-
-
