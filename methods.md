@@ -25,7 +25,7 @@ Developing the evaluation framework with the appropriate framework type will be 
 |GBS-SNP-CROP|10.1186/s12859-016-0879-y|2016|Both|Built In|Trimmomatic (trims before demultiplexing!)|BWA|samtools mpileup|yes and for each step name and location expectation|No needs recognition sequence|https://github.com/halelab/GBS-SNP-CROP|SNP matrix, TASSEL hmp, PLINK tped|
 |GibPSs|10.1111/1755-0998.12510|2016|Denovo|Built In|Built in but just removes bad reads|Matching Built in|Built In|No|No needs recognition sequence|https://github.com/ahapke/gibpss|Database with export.|
 |NGSEP|10.1186/s12864-016-2827-7|2016|Reference|Built In|Built in Removes adapter|Bowtie2|Built In|No|unknown|https://sourceforge.net/projects/ngsep/|vcf|
-|FastGBS|10.1186/s12859-016-1431-9|2017|Reference|Sabre (https://github.com/najoshi/sabre)|Removes adaptor with cutadapt (https://github.com/marcelm/cutadapt/)|BWA|Platypus (http\c//www.well.ox.ac.uk/platypus)|Yes|Enzyme cutsite overhang is not checked|https://bitbucket.org/jerlar73/fast-gbs|vcf|
+|FastGBS|10.1186/s12859-016-1431-9|2017|Reference|Sabre (https://github.com/najoshi/sabre)|Removes adaptor with cutadapt (https://github.com/marcelm/cutadapt/)|BWA|Platypus (http://www.well.ox.ac.uk/platypus)|Yes|Enzyme cutsite overhang is not checked|https://bitbucket.org/jerlar73/fast-gbs|vcf|
 |ipyRAD|NA|NA|Denovo, Reference, Denovo+Reference|Built In|Built in|BWA / SMALT|Samtools/bedtools|No|No. Can specify enzyme cutsite overhang in parameter file|https://github.com/dereneaton/ipyrad|Varint VCF; ipyrad .loci; phylogenetic and structure (.phy, .nex and .str); SMARTPCA etc (.geno); MAP (.snps.map)|
 |TASSEL 5|NA|NA|Reference|Built In|Built In|BWA / Bowtie2|Built In|Yes|Yes|http://www.maizegenetics.net/tassel|Database with export|
 
