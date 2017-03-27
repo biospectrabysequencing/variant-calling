@@ -32,11 +32,11 @@ During the programme we will:
 ### Milestones
 
 | Milestone                              | Metric of success | Year |
-|----------------------------------------|-------------------|-----------------|
-| Example data acquired                  | availability of required example data |   Year 1    |
-| Test data simulated                    | workflow for generating test data     |   Year 1    |
-| Cloud platform established             | Availability of a cloud solution for data analysis |       Year 1      |
-| Baseline developed                     | comparative metrics for different pipelines available |   Year 2       |
-| Rack framework developed               | Pipelines and data available  in a rack    |         Year 2        |
-| 5 pipelines tested against baseline    | Differences between pipelines established                  |         Year 2        |
-| Matrix of datasets and tools           | Availability of online resource with decision support |  Year 2 |
+|----------------------------------------|-------------------|----------------:|
+| Example data acquired                  | availability of required example data |   1    |
+| Test data simulated                    | workflow for generating test data     |   1    |
+| Cloud platform established             | Availability of a cloud solution for data analysis |       1      |
+| Baseline developed                     | comparative metrics for different pipelines available |    2      |
+| Rack framework developed               | Pipelines and data available  in a rack    |          2        |
+| 5 pipelines tested against baseline    | Differences between pipelines established                  |     2        |
+| Matrix of datasets and tools           | Availability of online resource with decision support |  2 |
